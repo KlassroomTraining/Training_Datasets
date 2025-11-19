@@ -1,0 +1,6 @@
+MonthlyCharges,Tenure,ContractType,Churn
+70,12,Prepaid,Yes
+85,24,Postpaid,No
+45,3,Prepaid,Yes
+95,36,Postpaid,No
+55,8,Prepaid,Yes

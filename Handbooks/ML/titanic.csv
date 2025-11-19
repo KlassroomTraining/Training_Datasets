@@ -1,0 +1,13 @@
+Pclass,Sex,Age,SibSp,Fare,Survived
+3,male,22,1,7.25,0
+1,female,38,1,71.28,1
+3,female,26,0,7.92,1
+1,female,35,1,53.1,1
+2,male,28,0,13.0,0
+3,male,19,0,8.05,0
+2,female,27,1,13.86,1
+1,male,54,0,51.86,0
+3,female,31,0,7.93,1
+2,male,14,0,30.07,0
+1,female,45,1,83.48,1
+3,male,30,0,7.75,0

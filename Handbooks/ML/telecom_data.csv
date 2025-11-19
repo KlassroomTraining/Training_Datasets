@@ -1,0 +1,5 @@
+Age,Gender,PlanType,MonthlyUsage,Churn
+25,Male,Gold,300,Yes
+32,Female,Silver,150,No
+28,Male,Gold,250,Yes
+22,Female,Bronze,100,No
