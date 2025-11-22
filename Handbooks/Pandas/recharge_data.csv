@@ -1,0 +1,20 @@
+CustomerID,Name,Region,City,Plan,Amount,MonthlyUsage,Complaints,Recharged,Marks,Grade,Days_Since_Last_Recharge,Complaint_Type
+101,Arya,Pune,Pune,Prepaid,250,320,Yes,Yes,85,A,12,Network Issue
+102,Ravi,Delhi,Delhi,Postpaid,600,450,No,Yes,92,A+,8,Recharge Failed
+103,Meera,Mumbai,Mumbai,Prepaid,150,210,No,No,78,B,45,Slow Internet
+104,Kiran,Chennai,Chennai,Postpaid,450,500,Yes,Yes,88,A,3,SIM Not Working
+105,Lina,Pune,Pune,Prepaid,300,330,No,Yes,90,A+,14,Network Issue
+106,Soham,Delhi,Delhi,Prepaid,200,180,No,No,76,B,33,Billing Error
+107,Riya,Kolkata,Kolkata,Postpaid,500,400,Yes,Yes,82,A,5,Network Issue
+108,Rohan,Mumbai,Mumbai,Postpaid,400,390,No,Yes,87,A,25,Slow Internet
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
