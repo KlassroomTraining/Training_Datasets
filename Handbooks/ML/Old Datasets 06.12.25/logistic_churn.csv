@@ -1,0 +1,11 @@
+Age,MonthlyUsage,Tenure,PlanType,Churn
+22,120,3,Basic,0
+34,240,12,Premium,1
+28,180,6,Standard,0
+45,310,24,Basic,1
+52,390,48,Premium,1
+37,260,18,Standard,0
+26,140,2,Basic,0
+41,330,36,Premium,1
+30,210,9,Standard,0
+49,170,30,Basic,0

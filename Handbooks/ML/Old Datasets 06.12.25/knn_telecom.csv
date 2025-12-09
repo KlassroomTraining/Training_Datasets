@@ -1,0 +1,11 @@
+Age,Gender,PlanType,Tenure,MonthlyUsage,Churn
+23,Male,Basic,3,100,0
+35,Female,Premium,12,250,1
+45,Male,Standard,6,320,0
+25,Female,Basic,24,140,0
+52,Male,Premium,48,380,1
+46,Female,Standard,18,270,0
+30,Female,Basic,2,200,0
+40,Male,Premium,36,310,1
+29,Male,Standard,9,220,0
+50,Female,Basic,30,150,0
