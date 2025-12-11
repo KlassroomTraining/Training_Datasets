@@ -1,6 +1,0 @@
-MonthlyUsage,CustomerType,Complaints,Recharged
-300,Prepaid,Yes,No
-150,Postpaid,No,Yes
-200,Prepaid,No,Yes
-400,Postpaid,Yes,Yes
-100,Prepaid,Yes,No
